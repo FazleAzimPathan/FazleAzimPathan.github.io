@@ -1720,6 +1720,9 @@ h6 {
 .w-\[60px\] {
   width: 60px;
 }
+.bg-green-800 {
+  color: darkseagreen;
+}
 
 .w-\[66\.6666\%\] {
   width: 66.6666%;
